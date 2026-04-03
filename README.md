@@ -8,7 +8,7 @@
 - 🎓 **Computer Science Student**
 - 🛠️ **Technologies:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/>
 
 <br/>
 <br/>
