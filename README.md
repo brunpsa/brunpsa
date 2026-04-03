@@ -1,19 +1,19 @@
 <div align="center">
   <h1>Hey 👋, I'm Bruno</h1>
+  
   <img src="https://komarev.com/ghpvc/?username=brunpsa&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</div>
 
-<br/>
+  <br/><br/>
 
-- 🎓 **Computer Science Student**
-- 🛠️ **Technologies:**
+  <p>🎓 <b>Computer Science Student</b></p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" />
+  <br/>
 
-<br/>
-<br/>
+  <h3>🛠️ Technologies:</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="70" height="70"/>
+  
+  <br/><br/>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/brunoptda2/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-2977B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
