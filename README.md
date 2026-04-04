@@ -3,14 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=brunpsa&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
-<br/>
-
-- 🎓 **Computer Science Student**
-- 🌱  working with **Java**
-
-<br/>
-
 <div align="center">
+  <p style="margin-top: 10px;">
+    🎓 <b>Computer Science Student</b> | 🌱 Working with <b>Java</b>
+  </p>
   <a href="https://www.linkedin.com/in/brunoptda2/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-2977B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
