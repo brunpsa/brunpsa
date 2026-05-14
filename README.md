@@ -4,7 +4,6 @@
 </div>
 
 - 🎓 **Computer Science Student**
-- 🌱 working with **Java**
 
 <div align="center">
   <a href="#" target="_blank">
