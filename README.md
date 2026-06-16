@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=brunpsa&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
-- 🎓 **Software Engineering**
+- 🎓 **Software Engineering Student**
 
 <div align="center">
   <a href="#" target="_blank">
