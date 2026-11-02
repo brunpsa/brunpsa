@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Hey 👋, I'm Bruno</h1>
-  <img src="https://komarev.com/ghpvc/?username=brunpsa&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
-- 🎓 **.**
+- 🎓 **Analysis and Systems Development**
 
 <div align="center">
   <a href="#" target="_blank">
