@@ -8,10 +8,6 @@
 
 <div align="center">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ANDROID%20DEVELOPER-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
 </div>
 
 - 📱 Android Developer
